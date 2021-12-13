@@ -1,3 +1,3 @@
- C# C Sharp 
+ C# (CSharp) 
 informações básicas
 
